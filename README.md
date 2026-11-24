@@ -1,6 +1,8 @@
-# PtichDeck
-A public page for the basic information of a mobile game project which is in development.  Please be aware that this page is not a full pitch deck page and it's only indented to give investors or publishers a brief impression about the project.  
+# Addictive Crimes Ptich Deck
 
+Dear investor, publisher, this is a short pitch deck page for a video game project called "Addictive crimes". Please be aware that this page is not a full pitch deck and it's only indented to give investors or publishers a brief impression about the project. The development of the project has started and a playable prototype of the game is available. Comprehensive documents such as game Concept, Art & design document, development timeline, Competitor analysis and unique selling point, Financial planning and revenue forecast are also available. 
+
+If you are interested and want to get more information about the project, then feel free to get in touch with me. You can find my contact info at the bottom of the page. 
 
 #### Game summary: 
 A 2D, single player, offline mobile game about a thief in a fictional city set in 1960s era. The 
@@ -31,7 +33,10 @@ Atmospheric piano melodies for music during story sequences. Electronic rock bea
 intense combat parts. Industrial ambient sounds for calm moments. Voice lines may or may not be implemented. 
 
 #### Development period:
-one year. 
+12 months.
+
+#### Game engine:
+Unity.
 
 #### Core team size: 
 2 people, a programmer and an artist. 
@@ -44,3 +49,7 @@ android / iOS
 
 #### Monetization strategy:
 a free to play game with in app purchases but no adds. 
+
+# Developer Contact:
+- 📧 Email: shervinshafizadentertainment@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/shervin-shafizad-3535b8228/?originalSubdomain=ir)  
