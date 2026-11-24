@@ -1,6 +1,6 @@
 # Addictive Crimes Ptich Deck
 
-Dear investor, publisher, this is a short pitch deck page for a video game project called "Addictive crimes". Please be aware that this page is not a full pitch deck and it's only indented to give investors or publishers a brief impression about the project. The development of the project has started and a playable prototype of the game is available. Comprehensive documents such as game Concept, Art & design document, development timeline, Competitor analysis and unique selling point, Financial planning and revenue forecast are also available. 
+Dear investor, publisher, this is a short pitch deck page for a video game project called "Addictive crimes". Please be aware that this page is not a full pitch deck and it's only indented to give investors or publishers a brief impression about the project. The development of the project has started and a playable prototype of the game is available. Comprehensive documents such as Game concept, Art & design document, development timeline, Competitor analysis and unique selling point, Financial planning and revenue forecast are also available. 
 
 If you are interested and want to get more information about the project, then feel free to get in touch with me. You can find my contact info at the bottom of the page. 
 
@@ -35,7 +35,7 @@ intense combat parts. Industrial ambient sounds for calm moments. Voice lines ma
 #### Development period:
 12 months.
 
-#### Minimum development budget:
+#### Minimum needed funding support:
 49,000 EUR. 
 
 #### Game engine:
@@ -51,7 +51,7 @@ Above 12 years of age. People with a passion for action shooting games.
 android / iOS 
 
 #### Monetization strategy:
-a free to play game with in app purchases but no adds. 
+A free to play game with in-app purchases but no adds. 
 
 # Developer Contact:
 - 📧 Email: shervinshafizadentertainment@gmail.com  
