@@ -35,6 +35,9 @@ intense combat parts. Industrial ambient sounds for calm moments. Voice lines ma
 #### Development period:
 12 months.
 
+#### Minimum development budget:
+49,000 EUR. 
+
 #### Game engine:
 Unity.
 
