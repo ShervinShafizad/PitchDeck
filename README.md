@@ -1,4 +1,4 @@
-# Addictive Crimes Ptich Deck
+# Addictive Crimes Pitch Deck
 
 Dear investor, publisher, this is a short pitch deck page for a video game project called "Addictive crimes". Please be aware that this page is not a full pitch deck and it's only indented to give investors or publishers a brief impression about the project. The development of the project has started and a playable prototype of the game is available. Comprehensive documents such as Game concept, Art & design document, development timeline, Competitor analysis and unique selling point, Financial planning and revenue forecast are also available. 
 
